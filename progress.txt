@@ -5,3 +5,4 @@
 5. finish lesson 2, wip lesson 3
 6. Change from codeacademy to python programming MOOC
 7. part 1-3 python programming intro course
+8/ wip part 1-3
