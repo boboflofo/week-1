@@ -3,3 +3,4 @@
 3. finish lesson 1 wip 2
 4. lesson 2
 5. finish lesson 2, wip lesson 3
+6. Change from codeacademy to python programming MOOC
