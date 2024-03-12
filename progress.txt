@@ -13,3 +13,4 @@ tuesday
 2. part 2...
 3. part 3 wip
 4. part 3, string manipulation 
+5. part 3, functions in python
