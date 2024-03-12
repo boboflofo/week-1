@@ -14,3 +14,4 @@ tuesday
 3. part 3 wip
 4. part 3, string manipulation 
 5. part 3, functions in python
+6. part 5, dive in references
