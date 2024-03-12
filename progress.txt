@@ -12,3 +12,4 @@ tuesday
 1. wip part 2
 2. part 2...
 3. part 3 wip
+4. part 3, string manipulation 
