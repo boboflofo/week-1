@@ -16,3 +16,4 @@ tuesday
 5. part 3, functions in python
 6. part 5, dive in references
 7. part 6, reading and writing files
+8. party 7, data processing
