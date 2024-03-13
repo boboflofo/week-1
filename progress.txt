@@ -25,3 +25,4 @@ wed
 3. start django/react tutorial
 4. finish video 1
 5. video 2/3
+6. video 4, react router setup
