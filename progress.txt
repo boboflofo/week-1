@@ -17,3 +17,7 @@ tuesday
 6. part 5, dive in references
 7. part 6, reading and writing files
 8. party 7, data processing
+
+wed
+
+1. wip data processing
