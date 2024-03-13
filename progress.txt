@@ -26,3 +26,4 @@ wed
 4. finish video 1
 5. video 2/3
 6. video 4, react router setup
+7. wip react router
