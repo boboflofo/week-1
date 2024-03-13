@@ -22,3 +22,4 @@ wed
 
 1. wip data processing
 2. rego over files
+3. start django/react tutorial
