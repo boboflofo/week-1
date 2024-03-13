@@ -24,3 +24,4 @@ wed
 2. rego over files
 3. start django/react tutorial
 4. finish video 1
+5. video 2/3
