@@ -21,3 +21,4 @@ tuesday
 wed
 
 1. wip data processing
+2. rego over files
