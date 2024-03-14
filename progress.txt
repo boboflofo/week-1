@@ -30,3 +30,4 @@ wed
 
 
 1. react django integration wip
+2. trying to use create react app with django
