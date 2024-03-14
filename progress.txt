@@ -33,3 +33,4 @@ wed
 2. trying to use create react app with django
 3. wip integrating vite with django
 4. vite django cont..
+5. error handling vite
