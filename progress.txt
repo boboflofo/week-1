@@ -27,3 +27,6 @@ wed
 5. video 2/3
 6. video 4, react router setup
 7. wip react router
+
+
+1. react django integration wip
