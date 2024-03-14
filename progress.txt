@@ -34,3 +34,4 @@ wed
 3. wip integrating vite with django
 4. vite django cont..
 5. error handling vite
+6 react router
