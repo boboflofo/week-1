@@ -39,3 +39,4 @@ wed
 
 1. start lesson ai cs50
 2. cont lesson
+3. lesson cont
