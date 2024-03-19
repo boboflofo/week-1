@@ -49,3 +49,4 @@ wed
 2. lesson 1 vid
 3. revisit lesson 1 vid for projects
 4. wip lesson 1
+5. bfs and dfs research
