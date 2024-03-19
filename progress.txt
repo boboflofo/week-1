@@ -50,3 +50,4 @@ wed
 3. revisit lesson 1 vid for projects
 4. wip lesson 1
 5. bfs and dfs research
+6. research minimax and a* search
