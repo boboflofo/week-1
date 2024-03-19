@@ -51,3 +51,4 @@ wed
 4. wip lesson 1
 5. bfs and dfs research
 6. research minimax and a* search
+7. depth-limited minimax
