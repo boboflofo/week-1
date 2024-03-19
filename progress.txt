@@ -44,3 +44,5 @@ wed
 5. lesson quiz wip
 6. leason quiz
 7. lesson practice
+
+1. cont on lesson 1 prac
