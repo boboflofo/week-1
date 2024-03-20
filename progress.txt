@@ -71,3 +71,4 @@ Wednesday
 4. minimax algo implementation 
 5. minimax wip
 6. minimax utility func
+7. testing minimax
