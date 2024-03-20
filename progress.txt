@@ -57,3 +57,4 @@ wed
 2. proj wip
 3. wip
 4. minimax algo implementation 
+5. minimax wip
