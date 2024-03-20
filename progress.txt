@@ -52,3 +52,5 @@ wed
 5. bfs and dfs research
 6. research minimax and a* search
 7. depth-limited minimax
+
+1. proj tictactoe
