@@ -54,3 +54,4 @@ wed
 7. depth-limited minimax
 
 1. proj tictactoe
+2. proj wip
