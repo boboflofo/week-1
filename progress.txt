@@ -72,3 +72,7 @@ Wednesday
 5. minimax wip
 6. minimax utility func
 7. testing minimax
+
+thurs
+
+1. lesson 2 vid
