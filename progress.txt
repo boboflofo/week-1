@@ -92,3 +92,4 @@ mon
 1. vid 3
 2 vid 3 wip
 3. lesson 3 quiz
+4. bayesian network research
