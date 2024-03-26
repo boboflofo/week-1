@@ -94,3 +94,4 @@ mon
 3. lesson 3 quiz
 4. bayesian network research
 5. bayesian network wip
+6. attempt pagerank project
