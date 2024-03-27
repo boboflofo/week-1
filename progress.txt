@@ -101,3 +101,4 @@ mon
 3. pagerank wip
 4. implement markov chain
 5. pagerank
+6. heredity proj start
