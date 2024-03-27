@@ -102,3 +102,4 @@ mon
 4. implement markov chain
 5. pagerank
 6. heredity proj start
+7 vid 4 
