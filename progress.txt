@@ -105,3 +105,4 @@ mon
 7 vid 4 
 
 1. vid 4 wip
+2. cont arc consistency 
