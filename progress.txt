@@ -106,3 +106,4 @@ mon
 
 1. vid 4 wip
 2. cont arc consistency 
+3. backtracking search research
