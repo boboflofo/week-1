@@ -109,3 +109,4 @@ mon
 3. backtracking search research
 4. crossword ai
 5. sudoku research
+6. start on sudoku ai
