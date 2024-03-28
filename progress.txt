@@ -108,3 +108,4 @@ mon
 2. cont arc consistency 
 3. backtracking search research
 4. crossword ai
+5. sudoku research
