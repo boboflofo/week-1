@@ -110,3 +110,5 @@ mon
 4. crossword ai
 5. sudoku research
 6. start on sudoku ai
+
+1. vid 4 quiz
