@@ -117,3 +117,5 @@ mon
 4. neural network research
 5. vid 5 quiz
 6. vid 5 proj wip
+
+1. leetcode warmup
