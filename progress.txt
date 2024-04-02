@@ -119,3 +119,4 @@ mon
 6. vid 5 proj wip
 
 1. leetcode warmup
+2. vid 5 proj
