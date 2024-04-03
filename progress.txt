@@ -129,3 +129,4 @@ mon
 1. leetcode
 2. interview/ sudoku research
 3. sudoku 
+4. implement a working sudoku ai
