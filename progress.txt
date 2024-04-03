@@ -130,3 +130,4 @@ mon
 2. interview/ sudoku research
 3. sudoku 
 4. implement a working sudoku ai
+5. wip
