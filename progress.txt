@@ -127,3 +127,4 @@ mon
 7. vid 5 proj
 
 1. leetcode
+2. interview/ sudoku research
