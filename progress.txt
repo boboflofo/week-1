@@ -132,3 +132,5 @@ mon
 4. implement a working sudoku ai
 5. wip
 6. ai wip
+
+1. leetcode
